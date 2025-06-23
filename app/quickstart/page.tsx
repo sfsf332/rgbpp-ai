@@ -373,7 +373,7 @@ ckb-cli wallet new --type secp256k1
                       <div className="p-4 bg-purple-50/10 rounded-lg">
                         <h4 className="font-semibold text-purple-400 mb-2">Wallet Setup</h4>
                         <p className="text-purple-300 text-sm">
-                          Set up your CKB wallet and ensure it's connected to the correct network.
+                          Set up your CKB wallet and ensure it&#39;s connected to the correct network.
                         </p>
                       </div>
                     </div>
@@ -678,7 +678,7 @@ monitorTransactions();
                 <span>Congratulations!</span>
               </CardTitle>
               <CardDescription className="text-gray-400">
-                You've successfully set up and deployed your first RGB++ application
+                You&apos;ve successfully set up and deployed your first RGB++ application
               </CardDescription>
             </CardHeader>
             <CardContent>

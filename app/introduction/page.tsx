@@ -67,7 +67,7 @@ export default function IntroductionPage() {
           </h1>
           <p className="text-xl text-gray-300 max-w-4xl mx-auto leading-relaxed">
             Welcome to the comprehensive technical introduction to the RGB++ Protocol. Discover the revolutionary
-            technology that bridges Bitcoin's security with CKB's programmability through isomorphic binding.
+            technology that bridges Bitcoin&apos;s security with CKB&apos;s programmability through isomorphic binding.
           </p>
         </div>
 
@@ -88,7 +88,7 @@ export default function IntroductionPage() {
                 <p className="leading-relaxed mb-6">
                   RGB++ Protocol represents a paradigm shift in blockchain interoperability, establishing a
                   revolutionary binding between Bitcoin UTXOs and Turing-complete CKB Scripts. This innovative approach
-                  leverages Bitcoin's unparalleled security while unlocking programmable capabilities previously
+                  leverages Bitcoin&apos;s unparalleled security while unlocking programmable capabilities previously
                   impossible on the Bitcoin network.
                 </p>
 
